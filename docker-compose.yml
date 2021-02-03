@@ -3,6 +3,6 @@ services:
   drachenlord:
     build: .
     environment:
-      DISCORD_API_TOKEN: <RA_-A2Y63qlaBFj_du0oz2sjTrubgwtv>
+      DISCORD_API_TOKEN: <ODA2MjcwNjc4ODczNDA3NTQ4.YBnAFQ.t-uyVEMiK6kugloGZZr3wJAcOck>
       ENABLE_RANDOM_JOINS: "True"
-      LOGGING_CHANNEL: <your-logging-textchannel-id-as-integer>
+      LOGGING_CHANNEL: <806173899132764201>
